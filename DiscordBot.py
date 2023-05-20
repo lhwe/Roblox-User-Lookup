@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 import requests
-TOKEN = "OTk0NjU4ODY5MDUxNjU0MTQ3.GorFHv.AAsoHsCaoMINP7uVSFoAd7I8M8AnSCNq9A7u2I"
+TOKEN = "tkn"
 intents = discord.Intents.default()
 intents.typing = True
 intents.presences = True
