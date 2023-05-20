@@ -1,5 +1,5 @@
 # Roblox user lookup
-nexus was here
+Simple roblox user lookup system
 # Upcoming features
   - Bot, !lun (Looks up user by username)
   - Bot , !cmd rap (Shows rap of selected user
