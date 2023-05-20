@@ -21,7 +21,7 @@ def fetch_user_data(user_id):
     display_name = user_data.get('displayName', '')
     created = user_data['created']
     external_app_display_name = user_data.get('externalAppDisplayName', '')
-    data = f"```Username: {username}\nDisplay Name: {display_name}\nBio: {bio}\nBanned: {is_banned}\nVerified Badge: {is_verified}\nCreated: {created}\nExternal App Display Name: {external_app_display_name}```"
+    data = f"```Username: {username}\nDisplay Name: {display_name}\nBio: {bio}\nBanned: {is_banned}\nVerified Badge: {is_verified}\nCreated: {created}\nExternal App Display Name: {external_app_display_name}\n UserID: {user_id}```"
     return data
 @bot.event
 async def on_ready():
