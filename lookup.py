@@ -1,3 +1,4 @@
+# Still works on windows
 import requests
 import json
 import os
