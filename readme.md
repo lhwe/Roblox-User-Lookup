@@ -5,3 +5,7 @@ Simple roblox user lookup system
   - Bot , !cmd rap (Shows rap of selected user
   - Same things coming to CMD version also!
   - Bot, Password guesser (Guesses passwords to accounts, req by isaac.#0001)
+
+
+# Discontinued here
+  - Continued on https://github.com/Kitty-Cheats
