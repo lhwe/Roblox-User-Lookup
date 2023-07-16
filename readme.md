@@ -1,4 +1,4 @@
-# Discontinued
+# Discontinued (CONTINUED ON https://github.com/MC-Index via the Discor bot)
 Sadly, due to a mix of depression, boredom, and laziness, RUL is discontinued.<br>
 If you would like to continue it, please feel free to fork it, or just copy it, just please give credits <33<br>
 For any questions, contact me via discord, 'lhwe'(new system) nexus#0101(old system), or on element @nexus_dev:matrix.org<br>
